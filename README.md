@@ -35,7 +35,5 @@
   <a href="https://www.linkedin.com/in/BrunoFellipS
 -45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake gif]([https://github.com/BrunoFellipS/BrunoFellipS/blob/output/github-contribution-grid-snake.gif](https://github.com/BrunoFellipS/BrunoFellipS/blob/output/github-contribution-grid-snake.giff%3Fcolor_snake%3Dorange%26color_dots%3D%23bfd6f6%2C%238dbdff%2C%2364a1f4%2C%234b91f1%2C%233c7dd9))
- 
 </div>
 
