@@ -7,24 +7,52 @@
 - 📫 How to reach me: brunofellip.silva@gmail.com .
 - 😊 My pronouns are he/it.
 
+## 🚀 My Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="DJango"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" alt="Heroku"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QTdesigner"/></code>
+<code><img height="32" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode"/></code>
+
+
+
 <div align="center">
   <a href="https://github.com/BrunoFellipS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=blue-green"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="bruno-Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="bruno-Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="bruno-Sqlite" height="30" width="80" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img align="center" alt="bruno-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
-  <img align="center" alt="bruno-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
+
+  <img align="center" alt="bruno-HTML" height="30" width="40" src="">
+  <img align="center" alt="bruno-CSS" height="30" width="40" src="">
+  <img align="center" alt="bruno-Python" height="30" width="40" src="">
+  <img align="center" alt="bruno-Django" height="40" width="40" src="">
+  <img align="center" alt="bruno-Flask" height="40" width="40" src="">
+  <img align="center" alt="bruno-Sqlite" height="30" width="80" src="">
+  <img align="center" alt="bruno-Heroku" height="30" width="40" src="">
+  <img align="center" alt="bruno-Qt" height="30" width="40" src="">
   
 </div>
+
+  ### Work experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHxnJxjUpgqTw/company-logo_200_200/0/1631540598077?e=2147483647&v=beta&t=YSAqc_NMwa3-yMH30ELjRdl5gG3U_rZwHPLEEC0G56Q"/>](https://www.spacex.com/)
+
+**Developer FullStack** \
+[**Alldax Contabilidade**](https://www.alldax.com/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Flask`, `MySQL`, `JavaScript`, `RPAs`, `RPs`, `Data Analysis`, `DashBoards`\
+Projetos em destaque: [Spreadsheet Center](https://www.spacex.com/)
+<br/>
   
-  ## Networks
+  ### Networks
  
 <div> 
   <a href="https://www.youtube.com/channel/UCUIxYgVcqnVic24SSl2r_KQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
