@@ -13,11 +13,12 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="DJango"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Fluter"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" alt="Heroku"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QTdesigner"/></code>
-<code><img height="32" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode"/></code>
@@ -28,18 +29,6 @@
   <a href="https://github.com/BrunoFellipS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=blue-green"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-</div>
-
-  <img align="center" alt="bruno-HTML" height="30" width="40" src="">
-  <img align="center" alt="bruno-CSS" height="30" width="40" src="">
-  <img align="center" alt="bruno-Python" height="30" width="40" src="">
-  <img align="center" alt="bruno-Django" height="40" width="40" src="">
-  <img align="center" alt="bruno-Flask" height="40" width="40" src="">
-  <img align="center" alt="bruno-Sqlite" height="30" width="80" src="">
-  <img align="center" alt="bruno-Heroku" height="30" width="40" src="">
-  <img align="center" alt="bruno-Qt" height="30" width="40" src="">
-  
-</div>
 
   ### Work experience
 In the overview below you will find my most recent work experience:
