@@ -23,13 +23,11 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode"/></code>
 
-
-<div>
 <div align="center">
   <a href="https://github.com/BrunoFellipS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=blue-green"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-    </div>
+</div>
 
   ### Work experience
 In the overview below you will find my most recent work experience:
