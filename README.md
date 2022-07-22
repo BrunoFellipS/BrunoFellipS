@@ -1,5 +1,6 @@
-<img align="right" height="890em" src="https://raw.githubusercontent.com/gist/BrunoFellipS/0d050b8bf1938e32337f45134afeb653/raw/c1901068cbe9fb9135c0d9efb4398b5b375b75bc/githubcardfull.svg"/>
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Fellip</h1>
+<img align="right" height="200em" src="https://raw.githubusercontent.com/gist/BrunoFellipS/0d050b8bf1938e32337f45134afeb653/raw/9445840bc8d9e9eaa79c8b00ed3f335e5da08430/githubcardfull.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoFellipS&color=blue" alt="Profile views" /> </p>
 
 - 🔭 Currently I work with systems development, automation and web projects as a full stack.
@@ -25,8 +26,8 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode"/></code>
 
 <div aling="left">
-<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=prussian"/>
-<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=yeblu"/>
+<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
 </div>
 
   ### Work experience
