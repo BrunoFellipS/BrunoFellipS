@@ -24,13 +24,13 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode"/></code>
 
-<div >
-  <a href="https://github.com/BrunoFellipS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=prussian"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+<div aling="left">
+<img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=prussian"/>
+<img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 </div>
 
   ### Work experience
+  
 In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHxnJxjUpgqTw/company-logo_200_200/0/1631540598077?e=2147483647&v=beta&t=YSAqc_NMwa3-yMH30ELjRdl5gG3U_rZwHPLEEC0G56Q"/>](https://www.spacex.com/)
