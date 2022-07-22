@@ -1,10 +1,11 @@
-### Hello Bruno Fellip here !👋
+<img align="right" height="890em" src="https://raw.githubusercontent.com/gist/BrunoFellipS/0d050b8bf1938e32337f45134afeb653/raw/ecc3e6fb60d2239c5dc4a8cd0d2901f9e4a07cb9/githubcardfull.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Fellip</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoFellipS&color=blue" alt="Profile views" /> </p>
 
 - 🔭 Currently I work with systems development, automation and web projects as a full stack.
 - 🌱 I'm currently learning advanced Python, machine learning, Django, and the cloud.
 - 👯 I try to collaborate with all kinds of projects that help me learn and develop in machine learning, Django and cloud.
 - 🤔 I looking for help with django and cloud backend.
-- 📫 How to reach me: brunofellip.silva@gmail.com .
 - 😊 My pronouns are he/it.
 
 ## 🚀 My Skills
@@ -25,8 +26,8 @@
 
 <div align="center">
   <a href="https://github.com/BrunoFellipS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=blue-green"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=prussian"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 </div>
 
   ### Work experience
