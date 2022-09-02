@@ -25,16 +25,14 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode"/></code>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoFellipS&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div aling="left">
 <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=yeblu"/>
 <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoFellipS&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrunoFellipS&theme=gotham)  
-
-![GitHub metrics](https://metrics.lecoq.io/BrunoFellipS)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BrunoFellipS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0) 
 
