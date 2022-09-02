@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Fellip</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Fellip !!</h1>
 <img align="right" height="200em" src="https://raw.githubusercontent.com/gist/BrunoFellipS/0d050b8bf1938e32337f45134afeb653/raw/9445840bc8d9e9eaa79c8b00ed3f335e5da08430/githubcardfull.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoFellipS&color=blue" alt="Profile views" /> </p>
 
@@ -29,6 +29,14 @@
 <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=yeblu"/>
 <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoFellipS&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrunoFellipS&theme=gotham)  
+
+![GitHub metrics](https://metrics.lecoq.io/BrunoFellipS)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BrunoFellipS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0) 
 
   ### Work experience
   
