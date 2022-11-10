@@ -28,7 +28,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=BrunoFellipS&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div aling="center">
-<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=true&theme=yeblu"/>
+<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=10&theme=yeblu"/>
 <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
 </div>
 
