@@ -30,9 +30,7 @@
 <div aling="center">
 <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=8&theme=yeblu"/>
 <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-</div>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrunoFellipS&theme=gotham)  
+</div> 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BrunoFellipS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0) 
 
