@@ -47,18 +47,18 @@
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BrunoFellipS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  -->
 
- ## Work experience
+ ## 🧐 Work experience
   
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHxnJxjUpgqTw/company-logo_200_200/0/1631540598077?e=2147483647&v=beta&t=YSAqc_NMwa3-yMH30ELjRdl5gG3U_rZwHPLEEC0G56Q"/>]
+<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHxnJxjUpgqTw/company-logo_200_200/0/1631540598077?e=2147483647&v=beta&t=YSAqc_NMwa3-yMH30ELjRdl5gG3U_rZwHPLEEC0G56Q"/>
 
 **Developer FullStack** \
 [**Alldax Contabilidade**](https://www.alldax.com/) • Previous \
 Linguagens & Tecnologias: `Python`, `Flask`, `MySQL`, `JavaScript`, `RPAs`, `RPs`, `Data Analysis`, `DashBoards`\
 <br/>
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEPg8c46IILkg/company-logo_100_100/0/1528909157622?e=2147483647&v=beta&t=sjlHZeWtoQHZvktiFNMEn4fqjJylzvA22bQck4x30g4"/>](https://www.spacex.com/)
-
+<br/>
 **Data Extraction and Processing Programmer** \
 [**4DOCS**](https://www.4vision.com.br/4docs) • Full-time \
 Linguagens & Tecnologias: `ruby`, `api`, `regex`, `data processing`\
@@ -71,6 +71,6 @@ Linguagens & Tecnologias: `ruby`, `api`, `regex`, `data processing`\
   <a href="https://instagram.com/mr.br_no?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/minojinhox" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mail.google.com/mail/u/0/?ogbl"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/bruno-fellip-silva-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href= "https://www.linkedin.com/in/bruno-fellip-silva-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
