@@ -47,7 +47,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BrunoFellipS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0) 
 
-  ### Work experience
+ ## Work experience
   
 In the overview below you will find my most recent work experience:
 
