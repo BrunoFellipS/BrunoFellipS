@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoFellipS&color=blue" alt="Profile views" /> </p>
 
 - 🔭 Currently I work with systems development, automation and web projects as a full stack.
-- 🌱 I'm currently learning advanced Python, machine learning, Django, and the cloud.
+- 🌱 I'm currently learning advanced Python, machine learning, Django, ruby, and regex.
 - 👯 I try to collaborate with all kinds of projects that help me learn and develop in machine learning, Django and cloud.
 - 🤔 I looking for help with django and cloud backend.
 - 😊 My pronouns are he/it.
