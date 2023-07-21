@@ -49,21 +49,22 @@
 
  ## 🧐 Work experience
   
-In the overview below you will find my most recent work experience:
+**In the overview below you will find my most recent work experience:**
 
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHxnJxjUpgqTw/company-logo_200_200/0/1631540598077?e=2147483647&v=beta&t=YSAqc_NMwa3-yMH30ELjRdl5gG3U_rZwHPLEEC0G56Q"/>
 
 **Developer FullStack** \
 [**Alldax Contabilidade**](https://www.alldax.com/) • Previous \
 Linguagens & Tecnologias: `Python`, `Flask`, `MySQL`, `JavaScript`, `RPAs`, `RPs`, `Data Analysis`, `DashBoards`\
-<br/>
+<br>
+<br>
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEPg8c46IILkg/company-logo_100_100/0/1528909157622?e=2147483647&v=beta&t=sjlHZeWtoQHZvktiFNMEn4fqjJylzvA22bQck4x30g4"/>](https://www.spacex.com/)
-<br/>
 **Data Extraction and Processing Programmer** \
 [**4DOCS**](https://www.4vision.com.br/4docs) • Full-time \
-Linguagens & Tecnologias: `ruby`, `api`, `regex`, `data processing`\
+Linguagens & Tecnologias: `Ruby`, `Api`, `Regex`, `Data Processing`, `Rspec`\
 <br/>
-  
+
+#
   ### Networks
  
 <div> 
