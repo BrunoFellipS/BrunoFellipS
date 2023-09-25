@@ -39,9 +39,10 @@
 ## 🏆 My Achievements
 
 <div aling="center">
-<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=8&theme=yeblu&hide_progress=false"/>
-<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=yeblu&include_all_commits=true&count_private=false"/>
-</div> 
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFellipS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BrunoFellipS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  -->
 
