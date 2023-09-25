@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Fellip !!</h1>
+<h1 align="left">Hi <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px">, I'm Bruno Fellip !!</h1>
 <img align="right" height="200em" src="https://github.com/BrunoFellipS/newtelesto/blob/main/home/static/src/img/Captura_de_tela_de_2023-09-25_00-27-37-removebg-preview.png?raw=true"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoFellipS&color=blue" alt="Profile views" /> </p>
 
