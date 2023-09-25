@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Fellip !!</h1>
-<img align="right" height="200em" src="https://raw.githubusercontent.com/gist/BrunoFellipS/0d050b8bf1938e32337f45134afeb653/raw/9445840bc8d9e9eaa79c8b00ed3f335e5da08430/githubcardfull.svg"/>
+<img align="right" height="200em" src="https://github.com/BrunoFellipS/newtelesto/blob/main/home/static/src/img/Captura_de_tela_de_2023-09-25_00-27-37-removebg-preview.png?raw=true"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoFellipS&color=blue" alt="Profile views" /> </p>
 
 - 🔭 Currently I work with systems development, automation and web projects as a full stack.
