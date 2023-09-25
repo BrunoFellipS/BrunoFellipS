@@ -38,7 +38,7 @@
 
 ## 🏆 My Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoFellipS&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoFellipS)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div aling="center">
 <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=8&theme=yeblu&hide_progress=false"/>
