@@ -36,9 +36,7 @@
 <code><img height="32" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="Emacs"/></code>
 
-## 🏆 My Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoFellipS)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 My Achievements
 
 <div aling="center">
 <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=8&theme=yeblu&hide_progress=false"/>
@@ -55,7 +53,7 @@
 
 **Developer FullStack** \
 [**Alldax Contabilidade**](https://www.alldax.com/) • Previous \
-Linguagens & Tecnologias: `Python`, `Flask`, `MySQL`, `JavaScript`, `RPAs`, `RPs`, `Data Analysis`, `DashBoards`\
+Linguagens & Tecnologias: `Python`, `Flask`, `DJago`, `MySQL`, `Data Engineering`, `RPAs`, `RPs`, `Data Analysis`, `DashBoards`\
 <br>
 <br>
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEPg8c46IILkg/company-logo_100_100/0/1528909157622?e=2147483647&v=beta&t=sjlHZeWtoQHZvktiFNMEn4fqjJylzvA22bQck4x30g4"/>](https://www.spacex.com/)
