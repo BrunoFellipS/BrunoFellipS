@@ -60,9 +60,15 @@ Linguagens & Tecnologias: `Python`, `Flask`, `DJago`, `MySQL`, `Data Engineering
 <br>
 <br>
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEPg8c46IILkg/company-logo_100_100/0/1528909157622?e=2147483647&v=beta&t=sjlHZeWtoQHZvktiFNMEn4fqjJylzvA22bQck4x30g4"/>](https://www.spacex.com/)
-**Data Extraction and Processing Programmer** \
+**Developer Back End** \
 [**4DOCS**](https://www.4vision.com.br/4docs) • Full-time \
 Linguagens & Tecnologias: `Ruby`, `Api`, `Regex`, `Data Processing`, `Rspec`\
+<br/>
+<br/>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://crosssystem.com.br/wp-content/uploads/2024/03/Logo-2.png"/>](https://www.spacex.com/)
+**Developer FullStack** \
+[**Cross System**](https://crosssystem.com.br/) • Full-time \
+Linguagens & Tecnologias: `JavaScript`, `Api`, `React`, `Mobile`, `Java`, `SQL-MySQL`\
 <br/>
 
 #
