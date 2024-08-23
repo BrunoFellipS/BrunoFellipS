@@ -11,6 +11,8 @@
 
 ## 💻 Systems Used
 
+<p align="left"> <img src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Profile views" /> </p>
+
 <code><img height="32" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></code>
 
