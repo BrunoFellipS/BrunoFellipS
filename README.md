@@ -1,5 +1,5 @@
 <h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="50px"> Hi, I'm Bruno Fellip!! <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="50px"></h1> 
-<img align="right" height="200em" src="https://github.com/BrunoFellipS/newtelesto/blob/main/home/static/src/img/Captura_de_tela_de_2023-09-25_00-27-37-removebg-preview.png?raw=true"/>
+<img align="right" height="200em" src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif?cid=ecf05e47dgbzw4mcxq0wpgjihjknkn7g9dqy784c9adnq1p6&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=BrunoFellipS&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/BrunoFellipS.svg?style=social&label=Follow&maxAge=2592000"/>
@@ -57,12 +57,14 @@
 **In the overview below you will find my most recent work experience:**
 
 <div>
+  <a href="https://alldax.com/">
   <img align="left" height="94px" width="94px" alt="Alldax Contabilidade" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHxnJxjUpgqTw/company-logo_200_200/0/1631540598077?e=2147483647&v=beta&t=YSAqc_NMwa3-yMH30ELjRdl5gG3U_rZwHPLEEC0G56Q"/>
-  <div>
-    **Developer FullStack** \
-    [**Alldax Contabilidade**](https://www.alldax.com/) • Previous \
-    Languages & Technologies: `Python`, `Flask`, `Django`, `MySQL`, `Data Engineering`, `RPA`, `ERP`, `Data Analysis`, `Dashboards`
-  </div>
+  </a>
+  
+  **Developer FullStack** \
+  [**Alldax Contabilidade**](https://www.alldax.com/) • Previous \
+  Languages & Technologies: `Python`, `Flask`, `Django`, `MySQL`, `Data Engineering`, `RPA`, `ERP`, `Data Analysis`, `Dashboards`
+
 </div>
 <br><br>
 
@@ -70,11 +72,11 @@
   <a href="https://www.4vision.com.br/4docs">
     <img align="left" height="94px" width="94px" alt="4DOCS" src="https://media.licdn.com/dms/image/C4D0BAQEPg8c46IILkg/company-logo_100_100/0/1528909157622?e=2147483647&v=beta&t=sjlHZeWtoQHZvktiFNMEn4fqjJylzvA22bQck4x30g4"/>
   </a>
-  <div>
-    **Developer Back End** \
-    [**4DOCS**](https://www.4vision.com.br/4docs) • Full-time \
-    Languages & Technologies: `Ruby`, `API`, `Regex`, `Data Processing`, `Rspec`
-  </div>
+  
+  **Developer Back End** \
+  [**4DOCS**](https://www.4vision.com.br/4docs) • Full-time \
+  Languages & Technologies: `Ruby`, `API`, `Regex`, `Data Processing`, `Rspec`
+ 
 </div>
 <br><br>
 
@@ -82,12 +84,13 @@
   <a href="https://crosssystem.com.br/">
     <img align="left" height="94px" width="94px" alt="Cross System" src="https://crosssystem.com.br/wp-content/uploads/2024/03/Logo-2.png"/>
   </a>
-  <div>
-    **Developer FullStack** \
-    [**Cross System**](https://crosssystem.com.br/) • Full-time \
-    Languages & Technologies: `JavaScript`, `API`, `React`, `Mobile`, `Java`, `SQL-MySQL`
-  </div>
+  
+  **Developer FullStack** \
+  [**Cross System**](https://crosssystem.com.br/) • Full-time \
+  Languages & Technologies: `JavaScript`, `API`, `React`, `Mobile`, `Java`, `SQL-MySQL`
+ 
 </div>
+<br><br>
 
 ## 🌐 Networks
  
