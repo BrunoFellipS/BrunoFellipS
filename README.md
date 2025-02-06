@@ -92,6 +92,18 @@
 </div>
 <br><br>
 
+<div>
+  <a href="https://www2.extremedigital.com.br/">
+    <img align="left" height="94px" width="94px" alt="Cross System" src="https://extremedigital.sharepoint.com/sites/governancaeds/_api/groupservice/getgroupimage?id=%27bdd5690f-01e0-40eb-a507-24f4fbd79231%27"/>
+  </a>
+  
+  **Developer BackEnd** \
+  [**Extreme Digital Soluctions**](https://www2.extremedigital.com.br/) • Full-time \
+  Languages & Technologies: `Python`, `Docker`, `PostgreSQL`, `Azure`, `FastAPI`, `SQL-MySQL`
+ 
+</div>
+<br><br>
+
 ## 🌐 Networks
  
 <div> 
