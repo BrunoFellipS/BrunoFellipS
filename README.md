@@ -94,7 +94,7 @@
 
 <div>
   <a href="https://www2.extremedigital.com.br/">
-    <img align="left" height="94px" width="94px" alt="Cross System" src="https://extremedigital.sharepoint.com/sites/governancaeds/_api/groupservice/getgroupimage?id=%27bdd5690f-01e0-40eb-a507-24f4fbd79231%27"/>
+    <img align="left" height="94px" width="94px" alt="Cross System" src="https://www2.extremedigital.com.br/wp-content/uploads/2022/10/LOGO_10_ANOS_branco.png"/>
   </a>
   
   **Developer BackEnd** \
