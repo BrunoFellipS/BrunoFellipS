@@ -109,8 +109,8 @@
     <img align="left" height="94px" width="94px" alt="FastDrywall" src="https://fastdrywall.com.br/wp-content/uploads/logo-fast.png"/>
   </a>
   
-  **Fast Drywall** \
-  [**Extreme Digital Soluctions**](https://fastdrywall.com.br/?utm_term=fastdrywall&utm_content=713347214293&gad_source=1&gclid=CjwKCAiA2JG9BhAuEiwAH_zf3rGB6GE3QYq80Zbg_CmtvMus62ErZpnpm6hakFXi_SJHmSopv-7-dRoCwd0QAvD_BwE) • Full-time \
+  **Developer FullStack** \
+  [**Fast Drywall**](https://fastdrywall.com.br/?utm_term=fastdrywall&utm_content=713347214293&gad_source=1&gclid=CjwKCAiA2JG9BhAuEiwAH_zf3rGB6GE3QYq80Zbg_CmtvMus62ErZpnpm6hakFXi_SJHmSopv-7-dRoCwd0QAvD_BwE) • Full-time \
   Languages & Technologies: `Python`, `Docker`, `PostgreSQL`, `Azure`, `FastAPI`, `SQL-MySQL`, `JavaScript`, `React`
  
 </div>
