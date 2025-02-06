@@ -94,7 +94,7 @@
 
 <div>
   <a href="https://www2.extremedigital.com.br/">
-    <img align="left" height="94px" width="94px" alt="Cross System" src="https://www2.extremedigital.com.br/wp-content/uploads/2022/10/LOGO_10_ANOS_branco.png"/>
+    <img align="left" height="94px" width="94px" alt="Extreme Digital Soluctions" src="https://www2.extremedigital.com.br/wp-content/uploads/2022/10/LOGO_10_ANOS_branco.png"/>
   </a>
   
   **Developer BackEnd** \
