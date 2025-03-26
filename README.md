@@ -48,7 +48,7 @@
 
 <div  style="display: flex; flex-direction: columns;">
   <a href="https://github.com/BrunoFellipS">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFellipS&layout=compact&langs_count=7&theme=tokyonight&token=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"/>
   </a>
 </div>
 
